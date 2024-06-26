@@ -47,7 +47,7 @@ let products = [
     {
         id: 6,
         name: 'PIZZA',
-        image: 'src/6.PNG',
+        image: '6.PNG',
         price: 120000
     }
 ];
